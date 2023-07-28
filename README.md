@@ -15,9 +15,8 @@ In this document, you will find:
 ## Frontend Application Screenshots
 
 ** Register **
-<div style="width:60px">
 ![image](https://github.com/snehashakyas/profile-management/assets/65065868/02535a96-8866-4b32-b339-24e0d3331a0c)
-<div>
+
 
 
 
