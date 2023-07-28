@@ -100,6 +100,8 @@ You will now be able to use the Patient Profile Management application on http:/
 
 To test the edge case and status code responses, Postman for documentation: https://www.postman.com/grey-astronaut-996390/workspace/new-team-workspace/collection/28504395-23266519-44ac-4969-8aa4-88bdc807d3e5?action=share&creator=28504395 
 
+Programmed unit tests for selected functions in the userController.js and patientController.js files were also tested, as seen in the "tests" directory.
+
 ## Conclusion and remarks
 
 This was my first MERN stack project, and I am a quick learner, so I really enjoyed learning and using React and Node.js for the first time during these past two weeks. Special thanks to my mentor Pravesh Chapagain, Erica Joshi, and all the Vyaguta Leapfrog team members for guiding me throughout this project and answering all my questions. I am very grateful for the support. 
