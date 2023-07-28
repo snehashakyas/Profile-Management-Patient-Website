@@ -14,6 +14,10 @@ In this document, you will find:
 
 ## Frontend Application Screenshots
 
+** Register **
+![image](https://github.com/snehashakyas/profile-management/assets/65065868/02535a96-8866-4b32-b339-24e0d3331a0c | width = 50)
+
+
 ## Techstack Information
 * RESTful API
 * JSON Web Tokens (JWT) are used to enforce a token-based authentication mechanism for users to login and logout of their accounts
