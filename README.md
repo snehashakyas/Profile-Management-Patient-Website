@@ -63,9 +63,9 @@ database. You can change the "JWT_SECRET" variable value, in the ".env" file in 
 
 # Setup Process and Installation
 
-1. Create a MongoDB database cluster. Within this cluster, you should create 2 collections: a "users" collection and a "patients" collection. Connect this created database to the patient profile application by copying the link given by MongoDB for connecting the database to an application, and pasting this link inside the ".env" file in the "server" directory, where it says "MONGO_URI". Make sure the copied link has your corrent MongoDB username, password, and cluster name.
+1. Create a MongoDB database cluster. Connect this created database to the patient profile application by copying the link given by MongoDB for connecting the database to an application, and pasting this link inside the ".env" file in the "server" directory, where it says "MONGO_URI". Make sure the copied link has your corrent MongoDB username, password, and cluster name.
    
-2. You will need _nodejs_ and _npm_ to run the application. Thus, make sure you have them both installed before running the next steps below.
+2. You will need _nodejs_ and _npm_ to run the application. Thus, make sure you have them both installed in the root directory before running the next steps below.
    
 3. To use the client, browse to the client directory and run:
    ```
