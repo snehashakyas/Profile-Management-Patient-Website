@@ -14,22 +14,35 @@ In this document, you will find:
 
 ## Frontend Application Screenshots
 
-**User Register Page**
+**User Register Page:**
 
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="700" />
 
-**User Login Page**
+**User Login Page:**
 
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/ba5af7f3-ee8f-49cd-90e8-267c48a2fb96" width="700" />
 
-**Patient Dashboard with No Patients**
+**Patient Dashboard with No Patients:**
 
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/08cf2019-dd60-4a67-a048-25620be60692" width="700" />
 
-**Patient Dashboard with Patients**
+**Patient Dashboard with Patients:**
 
-<img src="https://github.com/snehashakyas/profile-management/assets/65065868/9fa9e2db-982f-4097-a2dc-5fb0069b801b" width="700" />
+Patients that are marked as "special attention" will appear at the top of the website in alphabetical order.
 
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/815344c0-f933-4837-9f10-72bd9d21597c" width="700" />
+
+**Adding Patient in Patient Dashboard:**
+
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/c77eb778-9e46-40e7-af9a-36d49595b920" width="700" />
+
+**Deleting Patient in Patient Dashboard:**
+
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/f0db184b-f349-4167-b3b9-b1c5b8f08397" width="700" />
+
+**Editing Patient in Patient Dashboard:**
+
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/a881da39-0aa3-45e8-889c-f2f595c3163b" width="700" />
 
 ## Techstack Information
 * RESTful API
