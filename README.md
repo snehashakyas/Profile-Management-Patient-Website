@@ -12,7 +12,7 @@ In this document, you will find:
 * Setup Process
 * Test coverage and API documentation
 
-## Frontend Application Screenshots
+# Frontend Application Screenshots
 
 **User Register Page:**
 
@@ -51,15 +51,17 @@ This pop-up appears when the "EDIT" button for a patient is pressed. Any field c
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/a881da39-0aa3-45e8-889c-f2f595c3163b" width="700" />
 
 
-## Techstack Information
-* RESTful API
-* JSON Web Tokens (JWT) are used to enforce a token-based authentication mechanism for users to login and logout of their accounts
-database
-* React is used to create the client side of the project
-* Node.js is used to create the server side of thie project
+# Techstack Information
 
-## Setup Process
-# Installation
+* The server is run on port _3002_ of localhost (http://localhost:3002).
+* The client is run on port _3000_ of localhost (http://localhost:3000).
+* MongoDB database is being used to store all the patient data. You will need to create a MongoDB database cluster and secure it with a username and password. Within this, you should create 2 collections: a "users" collection and a "patients" collection. Connect this database to the patient profile application by copying the link from MongoDB that will connect the database to the application. Paste this link inside the "server" directory's ".env" file, where it says "MONGO_URI".
+*  _React_ is used to create the client side of the project
+* _Node.js_ is used to create the server side of thie project
+* JSON Web Tokens (JWT) are used to enforce a token-based authentication mechanism for users to login and logout of their accounts
+database. You can change the "JWT_SECRET" variable value, in the ".env" file in the "server" directory, to make the authentiction mechanism stronger.
+
+# Setup Process and Installation
 
 1. You will need nodejs and npm to run the application.So make sure you have them installed.If not installed please install them and then run the application
 2. To use the client just browse to the client folder and run:
@@ -68,24 +70,25 @@ database
    npm install
    ```
    This installs all the required dependencies
-3. Once, all the dependencies are installed you can run:
+4. Once, all the dependencies are installed you can run:
 
    ```
-   npm start
+   npm start client
    ```
-   This would start the client
-4. Now lets run the server.In the root folder first run the following command.
+   This would start the client. Make sure that port 3000 is not being used.
+5. Now lets run the server.In the root folder first run the following command.
 
    ```
    npm install
    ```
    This would install all the dependencies required for the server
-5. Populate the .env in the root folder as per the .env.example
-6. Then run the following command to start the server.
+6. Populate the .env in the root folder as per the .env.example
+7. Then run the following command to start the server.
 
    ```
-   npm start
+   npm run server
    ```
+   This would start the server. Make sure that port 3002 is not being used.
 
 ## Test Coverage and API Documentation
 
