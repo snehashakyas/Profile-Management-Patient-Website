@@ -102,4 +102,4 @@ postman
 
 ## Conclusion and remarks
 
-This was my first MERN Stack project and I am a quick learner, so really enjoyed learning and using React and Node.js during these past two weeks. Special thanks to my mentor Pravesh Chapagain, Erica Joshi, and all the Vyaguta Leapfrog team members for guiding me throughout this project and answering all my questions. I am very grateful.
+This was my first MERN stack project, and I am a quick learner, so I really enjoyed learning and using React and Node.js during these past two weeks. Special thanks to my mentor Pravesh Chapagain, Erica Joshi, and all the Vyaguta Leapfrog team members for guiding me throughout this project and answering all my questions. I am very grateful.
