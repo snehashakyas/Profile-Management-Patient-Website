@@ -14,9 +14,19 @@ In this document, you will find:
 
 ## Frontend Application Screenshots
 
-** Register **
+----- User Authentication -----
 
-<img src="https://github.com/snehashakyas/profile-management/assets/65065868/02535a96-8866-4b32-b339-24e0d3331a0c" width="50" />
+**Register**
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="500" />
+
+**Login**
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="500" />
+
+----- Dashboard -----
+
+**Empty Dashboard**
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/08cf2019-dd60-4a67-a048-25620be60692" width="500" />
+
 
 
 
