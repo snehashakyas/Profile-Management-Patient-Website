@@ -11,6 +11,7 @@ In this document, you will find:
 * Techstack information
 * Setup Process
 * Test coverage and API documentation
+* Conclusion and remarks
 
 # Frontend Application Screenshots
 
@@ -98,3 +99,7 @@ You will now be able to use the Patient Profile Management application on http:/
 ## Test Coverage and API Documentation
 
 postman
+
+## Conclusion and remarks
+
+This was my first MERN Stack project and I am a quick learner, so really enjoyed learning and using React and Node.js during these past two weeks. Special thanks to my mentor Pravesh Chapagain, Erica Joshi, and all the Vyaguta Leapfrog team members for guiding me throughout this project and answering all my questions. I am very grateful.
