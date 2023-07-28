@@ -17,14 +17,17 @@ In this document, you will find:
 ----- User Authentication -----
 
 **Register**
+
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="500" />
 
 **Login**
+
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="500" />
 
 ----- Dashboard -----
 
 **Empty Dashboard**
+
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/08cf2019-dd60-4a67-a048-25620be60692" width="500" />
 
 
