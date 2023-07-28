@@ -14,23 +14,21 @@ In this document, you will find:
 
 ## Frontend Application Screenshots
 
------ User Authentication -----
+**User Register Page**
 
-**Register**
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="700" />
 
-<img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="500" />
+**User Login Page**
 
-**Login**
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/ba5af7f3-ee8f-49cd-90e8-267c48a2fb96" width="700" />
 
-<img src="https://github.com/snehashakyas/profile-management/assets/65065868/eb178cec-cc53-4f54-9576-aa439244dff6" width="500" />
+**Patient Dashboard with No Patients**
 
------ Dashboard -----
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/08cf2019-dd60-4a67-a048-25620be60692" width="700" />
 
-**Empty Dashboard**
+**Patient Dashboard with Patients**
 
-<img src="https://github.com/snehashakyas/profile-management/assets/65065868/08cf2019-dd60-4a67-a048-25620be60692" width="500" />
-
-
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/9fa9e2db-982f-4097-a2dc-5fb0069b801b" width="700" />
 
 
 ## Techstack Information
