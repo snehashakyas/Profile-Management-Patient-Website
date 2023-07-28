@@ -16,7 +16,7 @@ In this document, you will find:
 
 ** Register **
 
-<img src="https://camo.githubusercontent.com/...](https://github.com/snehashakyas/profile-management/assets/65065868/02535a96-8866-4b32-b339-24e0d3331a0c" width="50" />
+<img src="https://github.com/snehashakyas/profile-management/assets/65065868/02535a96-8866-4b32-b339-24e0d3331a0c" width="50" />
 
 
 
