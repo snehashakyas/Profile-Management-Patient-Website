@@ -55,7 +55,7 @@ This pop-up appears when the "EDIT" button for a patient is pressed. Any field c
 
 * The server is run on port _3002_ of localhost (http://localhost:3002).
 * The client is run on port _3000_ of localhost (http://localhost:3000).
-* MongoDB database is being used to store all the patient data. You will need to create a MongoDB database cluster and secure it with a username and password. Within this, you should create 2 collections: a "users" collection and a "patients" collection. Connect this database to the patient profile application by copying the link from MongoDB that will connect the database to the application. Paste this link inside the "server" directory's ".env" file, where it says "MONGO_URI".
+* MongoDB database is being used to store all the patient data. You will need to create a MongoDB database cluster which needs to be secured with a username and password. More information on this is in the _Setup Process and Installation_ section below.
 *  _React_ is used to create the client side of the project
 * _Node.js_ is used to create the server side of thie project
 * JSON Web Tokens (JWT) are used to enforce a token-based authentication mechanism for users to login and logout of their accounts
@@ -63,32 +63,37 @@ database. You can change the "JWT_SECRET" variable value, in the ".env" file in 
 
 # Setup Process and Installation
 
-1. You will need nodejs and npm to run the application.So make sure you have them installed.If not installed please install them and then run the application
-2. To use the client just browse to the client folder and run:
-
+1. Create a MongoDB database cluster. Within this cluster, you should create 2 collections: a "users" collection and a "patients" collection. Connect this created database to the patient profile application by copying the link given by MongoDB for connecting the database to an application, and pasting this link inside the ".env" file in the "server" directory, where it says "MONGO_URI". Make sure the copied link has your corrent MongoDB username, password, and cluster name.
+   
+2. You will need _nodejs_ and _npm_ to run the application. Thus, make sure you have them both installed before running the next steps below.
+   
+3. To use the client, browse to the client directory and run:
    ```
    npm install
    ```
-   This installs all the required dependencies
-4. Once, all the dependencies are installed you can run:
+   This installs all the required dependencies for the client.
 
+5. Once all the dependencies are installed, run:
    ```
    npm start client
    ```
-   This would start the client. Make sure that port 3000 is not being used.
-5. Now lets run the server.In the root folder first run the following command.
-
+   This will start the client. Make sure that port 3000 is not being used.
+   
+6. Now lets run the server. In the root folder, run the following command.
    ```
    npm install
    ```
-   This would install all the dependencies required for the server
-6. Populate the .env in the root folder as per the .env.example
-7. Then run the following command to start the server.
+   This installs all the dependencies required for the server.
 
+7. Make sure you have populate the .env in the "backend" directory as per the .env.example.
+   
+8. Then run the following command to start the server.
    ```
    npm run server
    ```
-   This would start the server. Make sure that port 3002 is not being used.
+   This will start the server. Make sure that port 3002 is not being used.
+
+You will now be able to use the Patient Profile Management application on http://localhost:3000.
 
 ## Test Coverage and API Documentation
 
