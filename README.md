@@ -34,15 +34,22 @@ Patients that are marked as "special attention" will appear at the top of the we
 
 **Adding Patient in Patient Dashboard:**
 
+This pop-up appears when the "Add Patient" button is pressed. All fields are required.
+
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/c77eb778-9e46-40e7-af9a-36d49595b920" width="700" />
 
 **Deleting Patient in Patient Dashboard:**
+
+This confirmation pop-up appears when the "DELETE" button for a patient is pressed.
 
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/f0db184b-f349-4167-b3b9-b1c5b8f08397" width="700" />
 
 **Editing Patient in Patient Dashboard:**
 
+This pop-up appears when the "EDIT" button for a patient is pressed. Any field can be editted to update the patient's information.
+
 <img src="https://github.com/snehashakyas/profile-management/assets/65065868/a881da39-0aa3-45e8-889c-f2f595c3163b" width="700" />
+
 
 ## Techstack Information
 * RESTful API
