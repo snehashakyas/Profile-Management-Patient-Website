@@ -96,7 +96,7 @@ database. You can change the "JWT_SECRET" variable value, in the ".env" file in 
 
 You will now be able to use the Patient Profile Management application on http://localhost:3000.
 
-## Test Coverage and API Documentation
+## Test Coverage and API Documentation 
 
 To test the edge case and status code responses, Postman for documentation: https://www.postman.com/grey-astronaut-996390/workspace/new-team-workspace/collection/28504395-23266519-44ac-4969-8aa4-88bdc807d3e5?action=share&creator=28504395 
 
